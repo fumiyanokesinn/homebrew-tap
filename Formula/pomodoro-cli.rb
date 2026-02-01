@@ -2,7 +2,7 @@ class PomodoroCli < Formula
   desc "CLI-based Pomodoro timer written in Go"
   homepage "https://github.com/fumiyanokesinn/pomodoro-cli"
   url "https://github.com/fumiyanokesinn/pomodoro-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "dc8b2a8d25f46e1a81141457d47174b64be9e8414cdc8b4c2646914db2191c9f"
+  sha256 "8e66cc80a690de9994395b1c15afc726753930fad729ea2ad4fd90d6f5f0ed9a"
   license "MIT"
 
   depends_on "go" => :build
